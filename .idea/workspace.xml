@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="meeting" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ede8152a-7364-482a-97d9-7edec41de43d" name="Default" comment="更新最终整合版本" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web/top.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1Q9UzoYJFMBzuSdUs3nyqLq8wey" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567164449334" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="upsource.project.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\大学社会实践\会议室管理系统\MeetingRoom\MiniMeeting\web\images" />
+      <recent name="H:\大学社会实践\会议室管理系统\MeetingRoom\MiniMeeting\web\js" />
+      <recent name="H:\大学社会实践\会议室管理系统\MeetingRoom\MiniMeeting\web\WEB-INF\lib" />
+      <recent name="H:\大学社会实践\会议室管理系统\MeetingRoom\MiniMeeting\src\org\sang\servlet" />
+      <recent name="H:\大学社会实践\会议室管理系统\MeetingRoom\MiniMeeting\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.sang.servlet" />
+      <recent name="org.sang.service" />
+      <recent name="org.sang.dao" />
+      <recent name="org.sang.bean" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\大学社会实践\会议室管理系统\MeetingRoom\Meeting\web\js" />
+      <recent name="H:\大学社会实践\会议室管理系统\MeetingRoom\Meeting\web\WEB-INF" />
+      <recent name="H:\大学社会实践\会议室管理系统\MeetingRoom\Meeting\web\images" />
+      <recent name="H:\大学社会实践\会议室管理系统\MeetingRoom\Meeting\web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.sang.dao.DepartmentDao" />
+      <module name="Meeting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sang.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.sang.dao.EmployeeDao" />
+      <module name="Meeting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sang.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeetingDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.sang.dao.MeetingDao" />
+      <module name="Meeting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sang.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeetingRoomDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.sang.dao.MeetingRoomDao" />
+      <module name="Meeting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sang.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="88.Meeting" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.35" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="meeting">
+          <settings>
+            <option name="CONTEXT_PATH" value="/meeting" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_12_88_Meeting_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51490" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="meeting" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.DepartmentDao" />
+      <item itemvalue="Application.MeetingDao" />
+      <item itemvalue="Application.MeetingRoomDao" />
+      <item itemvalue="Application.EmployeeDao" />
+      <item itemvalue="Tomcat Server.Tomcat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeeDao" />
+        <item itemvalue="Application.DepartmentDao" />
+        <item itemvalue="Application.MeetingRoomDao" />
+        <item itemvalue="Application.MeetingDao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.20160116" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ede8152a-7364-482a-97d9-7edec41de43d" name="Default" comment="" />
+      <created>1503450939690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503450939690</updated>
+      <workItem from="1503450943481" duration="5782000" />
+      <workItem from="1503468174377" duration="6861000" />
+      <workItem from="1566179766791" duration="4864000" />
+      <workItem from="1566349600000" duration="21759000" />
+      <workItem from="1566381172266" duration="3466000" />
+      <workItem from="1566456003249" duration="11290000" />
+      <workItem from="1566735348360" duration="72000" />
+      <workItem from="1566737825274" duration="606000" />
+      <workItem from="1566806892927" duration="503000" />
+      <workItem from="1566870576930" duration="82000" />
+      <workItem from="1566870668531" duration="973000" />
+      <workItem from="1566875731957" duration="651000" />
+      <workItem from="1566905616203" duration="111000" />
+      <workItem from="1566906013912" duration="3067000" />
+      <workItem from="1566952118658" duration="9358000" />
+      <workItem from="1566973621295" duration="5827000" />
+      <workItem from="1566985767017" duration="6021000" />
+      <workItem from="1567038203134" duration="4494000" />
+      <workItem from="1567062595801" duration="1722000" />
+      <workItem from="1567074411600" duration="859000" />
+      <workItem from="1567124211263" duration="3200000" />
+      <workItem from="1567149559701" duration="3113000" />
+      <workItem from="1567159458110" duration="4981000" />
+      <workItem from="1567182578398" duration="787000" />
+      <workItem from="1567183553724" duration="372000" />
+      <workItem from="1567184075239" duration="6602000" />
+      <workItem from="1567419868071" duration="2214000" />
+      <workItem from="1567476771244" duration="901000" />
+      <workItem from="1567527254899" duration="901000" />
+      <workItem from="1567557487566" duration="5869000" />
+      <workItem from="1567571704940" duration="4193000" />
+      <workItem from="1567576694205" duration="17048000" />
+      <workItem from="1567607895689" duration="5631000" />
+      <workItem from="1567687815020" duration="647000" />
+      <workItem from="1567749644734" duration="3183000" />
+      <workItem from="1567753819106" duration="19376000" />
+      <workItem from="1567776176541" duration="5365000" />
+      <workItem from="1567815044103" duration="7323000" />
+      <workItem from="1567859901511" duration="5969000" />
+      <workItem from="1567908089077" duration="2773000" />
+      <workItem from="1568032235371" duration="182000" />
+      <workItem from="1568686403742" duration="2790000" />
+      <workItem from="1568704905598" duration="27000" />
+      <workItem from="1569030988133" duration="5750000" />
+      <workItem from="1569046956700" duration="11444000" />
+      <workItem from="1569294633742" duration="11566000" />
+      <workItem from="1569383379992" duration="8883000" />
+      <workItem from="1569553882815" duration="2165000" />
+      <workItem from="1569565689972" duration="6091000" />
+      <workItem from="1569597093663" duration="5618000" />
+      <workItem from="1569667595061" duration="8875000" />
+      <workItem from="1569716279578" duration="3096000" />
+      <workItem from="1569742570219" duration="2865000" />
+      <workItem from="1569858432584" duration="34000" />
+      <workItem from="1570413325535" duration="14603000" />
+      <workItem from="1570525304344" duration="5097000" />
+      <workItem from="1570590926859" duration="6664000" />
+      <workItem from="1570674090550" duration="1427000" />
+      <workItem from="1570683103865" duration="5310000" />
+      <workItem from="1570770337287" duration="1769000" />
+      <workItem from="1570853753703" duration="966000" />
+      <workItem from="1571274729708" duration="8154000" />
+      <workItem from="1571297862411" duration="5733000" />
+      <workItem from="1571311731867" duration="619000" />
+      <workItem from="1571881480082" duration="3765000" />
+      <workItem from="1571885252260" duration="21000" />
+      <workItem from="1571885294083" duration="3796000" />
+      <workItem from="1571899368553" duration="1603000" />
+      <workItem from="1571917603888" duration="32000" />
+      <workItem from="1572055582320" duration="452000" />
+      <workItem from="1572856116486" duration="685000" />
+      <workItem from="1573636341339" duration="996000" />
+      <workItem from="1573700019655" duration="157000" />
+      <workItem from="1575908763475" duration="1266000" />
+      <workItem from="1575910891656" duration="110000" />
+      <workItem from="1575957636202" duration="1170000" />
+      <workItem from="1575962645442" duration="418000" />
+      <workItem from="1577188517557" duration="65000" />
+      <workItem from="1578304021379" duration="488000" />
+      <workItem from="1579346820889" duration="624000" />
+      <workItem from="1583725986695" duration="8811000" />
+      <workItem from="1584495001670" duration="1085000" />
+      <workItem from="1584774055595" duration="1622000" />
+      <workItem from="1584782104728" duration="3137000" />
+      <workItem from="1584843460401" duration="4613000" />
+      <workItem from="1584859054510" duration="663000" />
+      <workItem from="1595065698714" duration="5174000" />
+      <workItem from="1595118216116" duration="3056000" />
+      <workItem from="1595121302120" duration="1279000" />
+      <workItem from="1595122600273" duration="36000" />
+      <workItem from="1595123340853" duration="399000" />
+      <workItem from="1595124980616" duration="17000" />
+      <workItem from="1596609973122" duration="144000" />
+      <workItem from="1596610341403" duration="766000" />
+      <workItem from="1598268602176" duration="91000" />
+    </task>
+    <task id="LOCAL-00001" summary="更新登录界面使用ajax请求">
+      <created>1567420764271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567420764271</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新登录界面使用ajax请求">
+      <created>1567476897106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567476897106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新登录界面使用ajax请求">
+      <created>1567476964626</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567476964626</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新最终整合版本">
+      <created>1567688291980</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567688291980</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更新最终整合版本">
+      <created>1567750720286</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567750720286</updated>
+    </task>
+    <task id="LOCAL-00006" summary="更新最终整合版本">
+      <created>1567751023341</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567751023341</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpsourceProjectSettings">
+    <option name="upsourceUrl" value="http://47.113.122.189:8089/" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="更新登录界面使用ajax请求" />
+    <MESSAGE value="更新最终整合版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新最终整合版本" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="90" key="#Inspections" timestamp="1595120081720">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="406" y="90" key="#Inspections/90.0.1446.864@90.0.1446.864" timestamp="1595120081720" />
+    <state x="406" y="90" key="#Project_Structure" timestamp="1595121803001">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="406" y="90" key="#Project_Structure/90.0.1446.864@90.0.1446.864" timestamp="1595121803001" />
+    <state x="268" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595121605289">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="268" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/90.0.1446.864@90.0.1446.864" timestamp="1595121605289" />
+    <state x="545" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595121630811">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="545" y="214" key="#com.intellij.ide.util.TreeClassChooserDialog/90.0.1446.864@90.0.1446.864" timestamp="1595121630811" />
+    <state x="544" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595070722266">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="544" y="178" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/90.0.1446.864@90.0.1446.864" timestamp="1595070722266" />
+    <state x="544" y="186" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1595121759416">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="544" y="186" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/90.0.1446.864@90.0.1446.864" timestamp="1595121759416" />
+    <state x="594" y="173" key="FileChooserDialogImpl" timestamp="1598268664628">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="594" y="173" key="FileChooserDialogImpl/90.0.1446.864@90.0.1446.864" timestamp="1598268664628" />
+    <state width="536" height="260" key="GridCell.Tab.0.bottom" timestamp="1595122582876">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="536" height="260" key="GridCell.Tab.0.bottom/90.0.1446.864@90.0.1446.864" timestamp="1595122582876" />
+    <state width="536" height="260" key="GridCell.Tab.0.center" timestamp="1595122582876">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="536" height="260" key="GridCell.Tab.0.center/90.0.1446.864@90.0.1446.864" timestamp="1595122582876" />
+    <state width="536" height="260" key="GridCell.Tab.0.left" timestamp="1595122582876">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="536" height="260" key="GridCell.Tab.0.left/90.0.1446.864@90.0.1446.864" timestamp="1595122582876" />
+    <state width="536" height="260" key="GridCell.Tab.0.right" timestamp="1595122582876">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="536" height="260" key="GridCell.Tab.0.right/90.0.1446.864@90.0.1446.864" timestamp="1595122582876" />
+    <state width="536" height="260" key="GridCell.Tab.1.bottom" timestamp="1595122582877">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="536" height="260" key="GridCell.Tab.1.bottom/90.0.1446.864@90.0.1446.864" timestamp="1595122582877" />
+    <state width="536" height="260" key="GridCell.Tab.1.center" timestamp="1595122582877">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="536" height="260" key="GridCell.Tab.1.center/90.0.1446.864@90.0.1446.864" timestamp="1595122582877" />
+    <state width="536" height="260" key="GridCell.Tab.1.left" timestamp="1595122582876">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="536" height="260" key="GridCell.Tab.1.left/90.0.1446.864@90.0.1446.864" timestamp="1595122582876" />
+    <state width="536" height="260" key="GridCell.Tab.1.right" timestamp="1595122582877">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="536" height="260" key="GridCell.Tab.1.right/90.0.1446.864@90.0.1446.864" timestamp="1595122582877" />
+    <state width="536" height="260" key="GridCell.Tab.2.bottom" timestamp="1595122582877">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="536" height="260" key="GridCell.Tab.2.bottom/90.0.1446.864@90.0.1446.864" timestamp="1595122582877" />
+    <state width="536" height="260" key="GridCell.Tab.2.center" timestamp="1595122582877">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="536" height="260" key="GridCell.Tab.2.center/90.0.1446.864@90.0.1446.864" timestamp="1595122582877" />
+    <state width="536" height="260" key="GridCell.Tab.2.left" timestamp="1595122582877">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="536" height="260" key="GridCell.Tab.2.left/90.0.1446.864@90.0.1446.864" timestamp="1595122582877" />
+    <state width="536" height="260" key="GridCell.Tab.2.right" timestamp="1595122582877">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="536" height="260" key="GridCell.Tab.2.right/90.0.1446.864@90.0.1446.864" timestamp="1595122582877" />
+    <state width="1096" height="248" key="GridCell.Tab.3.bottom" timestamp="1595068475492">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="1096" height="248" key="GridCell.Tab.3.bottom/90.0.1446.864@90.0.1446.864" timestamp="1595068475492" />
+    <state width="1096" height="248" key="GridCell.Tab.3.center" timestamp="1595068475492">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="1096" height="248" key="GridCell.Tab.3.center/90.0.1446.864@90.0.1446.864" timestamp="1595068475492" />
+    <state width="1096" height="248" key="GridCell.Tab.3.left" timestamp="1595068475492">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="1096" height="248" key="GridCell.Tab.3.left/90.0.1446.864@90.0.1446.864" timestamp="1595068475492" />
+    <state width="1096" height="248" key="GridCell.Tab.3.right" timestamp="1595068475492">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state width="1096" height="248" key="GridCell.Tab.3.right/90.0.1446.864@90.0.1446.864" timestamp="1595068475492" />
+    <state x="294" y="6" key="SettingsEditor" timestamp="1595122452411">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="294" y="6" key="SettingsEditor/90.0.1446.864@90.0.1446.864" timestamp="1595122452411" />
+    <state x="223" y="133" key="new project wizard" timestamp="1598268691463">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="223" y="133" key="new project wizard/90.0.1446.864@90.0.1446.864" timestamp="1598268691463" />
+    <state x="536" y="343" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1595067355791">
+      <screen x="90" y="0" width="1446" height="864" />
+    </state>
+    <state x="536" y="343" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/90.0.1446.864@90.0.1446.864" timestamp="1595067355791" />
+  </component>
+</project>
